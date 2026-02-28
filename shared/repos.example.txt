@@ -1,0 +1,5 @@
+# Repos to clone into /workspace (one URL per line)
+# Supports both SSH and HTTPS URLs
+#
+# git@github.com:youruser/project.git
+# https://github.com/youruser/project.git
