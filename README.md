@@ -90,3 +90,11 @@ The `shared/` directory is mounted at `/shared` inside the container. Use it to 
 ```bash
 container build -t claude-dev --build-arg CLAUDE_CODE_VERSION=1.0.0 .
 ```
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Ben Syverson
